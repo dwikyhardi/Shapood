@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/root/.AndroidStudio3.2/config/plugins/Kotlin/kotlinc" />
+    <macro name="SDK" value="/root/Android/Sdk" />
+  </component>
+</application>
